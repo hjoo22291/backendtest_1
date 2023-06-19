@@ -28,7 +28,7 @@ $(document).ready(function(){
 	});
 });
 
-
+//메인 말고 test1브랜치에 코멘트 추가...! by.안휘주
 
 </script>
 
