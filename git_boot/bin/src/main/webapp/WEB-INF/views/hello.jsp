@@ -24,7 +24,6 @@ $(document).ready(function(){
 			}
 			
 		});
-	//주석을 넣어봤어요!
 	});
 });
 
